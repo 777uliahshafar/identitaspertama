@@ -51,7 +51,7 @@
 }
 
 % Syntax will be active after first compile
-%\usepackage{comment}
+\usepackage{comment}
 
 % color the table's cell \cellcolor{}
 \usepackage[table, svgnames]{xcolor}
